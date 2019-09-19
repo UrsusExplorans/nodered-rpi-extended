@@ -1,4 +1,4 @@
-FROM resin/armv7hf-debian
+FROM resin/armv7hf-debian:buster-20181121
 
 RUN [ "cross-build-start" ]
 
